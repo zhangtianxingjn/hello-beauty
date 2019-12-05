@@ -1,1 +1,1 @@
-# hello-beauty
+# hello-beauty my first github demo , stydy by myself
